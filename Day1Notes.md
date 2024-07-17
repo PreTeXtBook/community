@@ -31,7 +31,7 @@
 
 9. Using a journal style on your latex (this could go in the publisher file).  What is the `\documentclass{?}`, a journal `.sty` file.  How does `\begin{theorem}` look (does it have a label?)
 
-10. Reference/Bibliography
+10. Reference/Bibliography See https://github.com/PreTeXtBook/pretext/issues/2208 for progress.
 
 11. PreTeXt to JATS (Journal Article Tag Suite).  It's an XML format.
 
